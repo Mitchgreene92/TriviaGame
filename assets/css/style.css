@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: center;
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+    background: url("../images/background.jpg");
+}
+
+h1 {
+    margin: 35px 0 0 0;
+    text-align: center;
+    font-size: 60px;
+    line-height: 69px;
+    font-family: 'Source Code Pro', monospace;
+    color:white;
+}
+
+.container {
+    text-align: center;
+    margin: 0 15%;
+    padding: 30px;
+    background: black;
+}
+
+.main-content {
+    padding: 5% 0;
+}
+
+.btn {
+    padding: 20px 65px;
+    font-size: 30px;
+    background: rgb(110, 204, 110);
+    border: 2px solid #ffffff;
+}
