@@ -11,7 +11,7 @@ var triviaQuestions = [{
     answerList: [" Snowball ", " Flipper ", " Barkley ", " Doodle ", " Ranger "],
     answer: 1
 },{
-    question: "What is Dominic DiPierro's job?",
+    question: "What is Dominique DiPierro's job?",
     answerList: ["Hostess", "CIA Agent", "Software Developer", "FBI Agent"],
     answer: 3
 },{
