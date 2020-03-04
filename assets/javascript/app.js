@@ -17,7 +17,7 @@ var triviaQuestions = [{
 },{
     question: "Who was Shayla's drug supplier with whom Elliott gets involved?",
     answerList: ["Fernando", "Cisco", "Phillip", "White Rose", "Tyrell"],
-    answer: 1
+    answer: 0
 },{
     question: "What was the name of Darlene's Dark Army Boyfriend",
     answerList: ["Cisco", "Darrell", "Ollie", "Phillip", "Mobley"],
